@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChatGPTWeatherApp2</string>
+    <string name="button_text">Location</string>
+    <string name="latitude">Latitude : </string>
+    <string name="longitude">Longitude : </string>
+    <string name="city_name">City Name</string>
+    <string name="view_weather">View Weather</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="humidity">Humidity : </string>
+    <string name="atmospheric_pressure">Atmospheric Pressure : </string>
+    <string name="visibility">Visibility :</string>
+    <string name="sunrise">SUNRISE</string>
+    <string name="sunset">SUNSET</string>
+</resources>
